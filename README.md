@@ -2,9 +2,9 @@
 repo dlya zacheta
 
 # About me
+
 I am Software Engineering student at FEFU.  
 **Name:** Vishnevskii Anton  
-**University** Far Eastern Federal University (FEFU)  
 **Group** Б9125-09.03.04пи  
 ---
 ## Personal information
